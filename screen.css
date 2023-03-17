@@ -1,0 +1,6 @@
+table, th {
+    border: 1px solid;
+    text-align: center;
+  }
+
+  tr:hover {background-color: rgb(80, 144, 255);}
